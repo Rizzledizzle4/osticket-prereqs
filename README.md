@@ -60,3 +60,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![image](https://github.com/Rizzledizzle4/osticket-prereqs/assets/135624545/48f77ace-d1d0-45d8-bbbc-aa9d169bbacb)
 
+
+
+![image](https://github.com/Rizzledizzle4/osticket-prereqs/assets/135624545/184e4c1b-542a-4615-9533-7d5b66c298cb)
