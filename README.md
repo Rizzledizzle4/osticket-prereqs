@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines a very brief overview of the prerequisites used to install the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -24,6 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Rewrite Module
 - PHP
 - My SQL
+- Heidi SQL
 
 <h2>Installation Steps</h2>
 
@@ -31,7 +32,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a Resource Group.
+Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs.
+
 </p>
 <br />
 
@@ -40,7 +43,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within the VM Install / Enable IIS in Windows with CGI and Common HTTP Features.
+
 </p>
 <br />
 
@@ -49,17 +53,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/Rizzledizzle4/osticket-prereqs/assets/135624545/2d078432-a1fa-48e6-834e-218f0e7250e9)
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install PHP Manager.
 </p>
 <br />
 
 
 ![image](https://github.com/Rizzledizzle4/osticket-prereqs/assets/135624545/202f5d59-633e-4f01-9225-931ce80f0432)
 
-
+Install Rerwite Module.
 
 ![image](https://github.com/Rizzledizzle4/osticket-prereqs/assets/135624545/48f77ace-d1d0-45d8-bbbc-aa9d169bbacb)
 
-
+Install PHP.
 
 ![image](https://github.com/Rizzledizzle4/osticket-prereqs/assets/135624545/184e4c1b-542a-4615-9533-7d5b66c298cb)
+
+Install My SQL.
+
+![image](https://github.com/Rizzledizzle4/osticket-prereqs/assets/135624545/ca96cd16-8600-466c-b4fa-3190cdbbea9b)
+
+Install Heidi SQL.
+
+![image](https://github.com/Rizzledizzle4/osticket-prereqs/assets/135624545/f24d90f4-00e0-48e2-95c2-7ae016ef1b9a)
+
+Open osTicket.
+
